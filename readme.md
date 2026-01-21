@@ -5,25 +5,23 @@ DB 설계 및 Android / IoT 연동 프로젝트를 중심으로 구성되어 있
 
 ---
 
-## About Me
+## [About Me]
 
-- 전공: 화공생명공학 (컴퓨터 프로그래밍 중심 학습)
+- 전공: 컴퓨터 공학 
 - 관심 분야
-  - Backend Server (Node.js, Express)
-  - 실시간 통신 (WebSocket)
-  - DB 설계 (MySQL, Sequelize)
-  - Android 연동 / IoT 시스템
-
+  - Backend Server
+  - 실시간 통신
+  - DB 설계
 ---
 
-## Project Overview
+## [Project Overview]
 
 아래는 주요 프로젝트 요약입니다.  
 각 프로젝트는 개별 GitHub 저장소로 관리되며, 상세 내용은 링크를 통해 확인할 수 있습니다.
 
 ---
 
-### Smart Study Desk (Capstone Project)
+### [Smart Study Desk (Capstone Project)]
 
 **IoT 기반 학습 환경 관리 시스템**
 
@@ -42,7 +40,7 @@ https://github.com/WJ718/capstone-smart-desk-module
 
 ---
 
-### Real-time GIF Chat Platform
+### [Real-time GIF Chat Platform]
 
 **WebSocket 기반 실시간 채팅 플랫폼**
 
@@ -65,7 +63,7 @@ https://github.com/WJ718/gifchat_platform
 
 ---
 
-### Booknote Platform
+### [Booknote Platform]
 
 **개인 독서 기록 관리 웹 서비스**
 
@@ -84,7 +82,7 @@ https://github.com/WJ718/booknote-platform
 
 ---
 
-### Algorithm Study (Baekjoon)
+### [Algorithm Study (Baekjoon)]
 
 **알고리즘 문제 풀이 및 정리 저장소**
 
