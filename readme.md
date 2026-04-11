@@ -43,7 +43,7 @@ https://github.com/WJ718/capstone-smart-desk-module
 
 ---
 
-### [Real-time GIF Chat Platform]
+### [GIF Chat Platform]
 
 **WebSocket 기반 실시간 채팅 플랫폼**
 
