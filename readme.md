@@ -24,13 +24,13 @@
 
 ---
 
-### [Smart Study Desk (Capstone Project)]
+### [Smart Study Desk Module - Capstone Project]
 
 **IoT 기반 학습 환경 관리 시스템**
 
-- Raspberry Pi 기반 졸음 감지 및 CO₂ 농도 측정
+- 파이썬 기반 졸음 감지 및 CO₂ 농도 측정 시스템
 - Node.js 서버를 통한 기기–앱 간 실시간 제어
-- Android 앱으로 설정 및 학습 기록 관리
+- Android 앱을 통한 설정 및 학습 기록 관리
 
 **Tech Stack**
 - Backend: Node.js, Express, WebSocket
@@ -41,6 +41,23 @@
 🔗 Repository  
 https://github.com/WJ718/capstone-smart-desk-module
 
+---
+
+### [hotel_reservation_service]
+
+**토스페이먼츠 API 활용 숙소 예약 플랫폼**
+
+- 특정 날짜 선택 후 결제
+- 결제 및 예약 기록 DB저장
+- node-cron 통한 결제 실패 스케줄러 구현
+- 토스페이먼츠 API를 활용한 결제 요청 / 확인
+
+**Tech Stack**
+- Backend: Node.js, Express
+- Database: MySQL, Sequelize
+
+🔗 Repository  
+https://github.com/WJ718/hotel_reservation_service
 ---
 
 ### [GIF Chat Platform]
@@ -56,10 +73,8 @@ https://github.com/WJ718/capstone-smart-desk-module
 - 서버–클라이언트 간 역할 분리
 
 **Tech Stack**
-- Node.js, Express
-- WebSocket (`ws`)
-- MySQL, Sequelize
-- Nunjucks / EJS
+- Backend: Node.js, Express
+- Database: MySQL, Sequelize
 
 🔗 Repository  
 https://github.com/WJ718/gifchat_platform
@@ -75,13 +90,42 @@ https://github.com/WJ718/gifchat_platform
 - 관계형 DB 기반 설계 (User–Post–Comment)
 
 **Tech Stack**
-- Node.js, Express
-- MySQL, Sequelize
-- Multer
-- EJS
+- Backend: Node.js, Express
+- Database: MySQL, Sequelize
 
 🔗 Repository  
 https://github.com/WJ718/booknote-platform
+
+---
+
+### [auction_platform]
+
+**실시간 경매 플랫폼**
+
+- socket.io 기반 실시간 통신
+- Node-schedule 기반 자동 낙찰 스케줄러 구
+
+**Tech Stack**
+- Backend: Node.js, Express
+- Database: MySQL, Sequelize
+
+🔗 Repository  
+https://github.com/WJ718/auction_platform
+
+---
+
+### [cafe-kiosk]
+
+**electron 기반 키오스크 프로그램**
+
+- 정적 데이터와 동적 데이터 관리 차별화
+
+**Tech Stack**
+- Backend: Node.js, Express, Electron
+- Database: MySQL, Sequelize
+
+🔗 Repository  
+https://github.com/WJ718/cafe-kiosk
 
 ---
 
