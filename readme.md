@@ -58,6 +58,7 @@ https://github.com/WJ718/capstone-smart-desk-module
 
 🔗 Repository  
 https://github.com/WJ718/hotel_reservation_service
+
 ---
 
 ### [GIF Chat Platform]
