@@ -56,6 +56,8 @@ https://github.com/WJ718/capstone-smart-desk-module
 - Backend: Node.js, Express
 - Database: MySQL, Sequelize
 
+![hotel_reservation](./img/hotel_reservation_main.png)
+
 🔗 Repository  
 https://github.com/WJ718/hotel_reservation_service
 
@@ -77,6 +79,8 @@ https://github.com/WJ718/hotel_reservation_service
 - Backend: Node.js, Express
 - Database: MySQL, Sequelize
 
+![chat_room](./img/chat_room.png)
+
 🔗 Repository  
 https://github.com/WJ718/gifchat_platform
 
@@ -94,6 +98,8 @@ https://github.com/WJ718/gifchat_platform
 - Backend: Node.js, Express
 - Database: MySQL, Sequelize
 
+![booknote_main](./img/booknote_main.png)
+
 🔗 Repository  
 https://github.com/WJ718/booknote-platform
 
@@ -110,6 +116,8 @@ https://github.com/WJ718/booknote-platform
 - Backend: Node.js, Express
 - Database: MySQL, Sequelize
 
+![auction_room](./img/auction_room.png)
+
 🔗 Repository  
 https://github.com/WJ718/auction_platform
 
@@ -124,6 +132,8 @@ https://github.com/WJ718/auction_platform
 **Tech Stack**
 - Backend: Node.js, Express, Electron
 - Database: MySQL, Sequelize
+
+![kiosk_main](./img/kiosk_main.png)
 
 🔗 Repository  
 https://github.com/WJ718/cafe-kiosk
