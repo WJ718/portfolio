@@ -139,12 +139,3 @@ https://github.com/WJ718/auction_platform
 https://github.com/WJ718/cafe-kiosk
 
 ---
-
-### [Algorithm Study (Baekjoon)]
-
-**알고리즘 문제 풀이 및 정리 저장소**
-
-- 알고리즘, 자료구조 공부 내용 저장
-
-🔗 Repository  
-https://github.com/WJ718/study-Baekjoon
